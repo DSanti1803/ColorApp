@@ -10,6 +10,8 @@
 * Tiene botones de los colores que hay en la aplicación los cuales servirán para responder
 * Muestra el puntaje que lleva la persona, junto al tiempo que le queda para responder
 * Al responder, la palabra cambiará y los botones cambiaran de posición
+* Cuenta con un apartado para personalizar el juego, modificando tanto el tiempo de juego como los intentos/vidas
+* Muestra los mejores 5 records 
 
 **Tecnologías**
 * Flutter
@@ -19,4 +21,4 @@
 1. Descargar los archivos adjuntos en el repositorio: 'http:'
 2. Abir el editor de codigo con el proyecto e instalar las dependencias con: 'flutter pub get'
 3. Ejecutar la aplicación, una forma sencilla es dar clic en F5
-4. 
+
